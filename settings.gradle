@@ -1,1 +1,1 @@
-include ':app', ':updateservice', ':views', ':javaLib'
+include ':app', ':updateservice', ':views', ':javaLib', ':core'
